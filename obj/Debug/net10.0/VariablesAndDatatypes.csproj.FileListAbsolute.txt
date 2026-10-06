@@ -1,0 +1,14 @@
+C:\C#\week2\ConsoleApp1\bin\Debug\net10.0\VariablesAndDatatypes.exe
+C:\C#\week2\ConsoleApp1\bin\Debug\net10.0\VariablesAndDatatypes.deps.json
+C:\C#\week2\ConsoleApp1\bin\Debug\net10.0\VariablesAndDatatypes.runtimeconfig.json
+C:\C#\week2\ConsoleApp1\bin\Debug\net10.0\VariablesAndDatatypes.dll
+C:\C#\week2\ConsoleApp1\bin\Debug\net10.0\VariablesAndDatatypes.pdb
+C:\C#\week2\ConsoleApp1\obj\Debug\net10.0\VariablesAndDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\week2\ConsoleApp1\obj\Debug\net10.0\VariablesAndDatatypes.AssemblyInfoInputs.cache
+C:\C#\week2\ConsoleApp1\obj\Debug\net10.0\VariablesAndDatatypes.AssemblyInfo.cs
+C:\C#\week2\ConsoleApp1\obj\Debug\net10.0\VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+C:\C#\week2\ConsoleApp1\obj\Debug\net10.0\VariablesAndDatatypes.dll
+C:\C#\week2\ConsoleApp1\obj\Debug\net10.0\refint\VariablesAndDatatypes.dll
+C:\C#\week2\ConsoleApp1\obj\Debug\net10.0\VariablesAndDatatypes.pdb
+C:\C#\week2\ConsoleApp1\obj\Debug\net10.0\VariablesAndDatatypes.genruntimeconfig.cache
+C:\C#\week2\ConsoleApp1\obj\Debug\net10.0\ref\VariablesAndDatatypes.dll
